@@ -89,3 +89,8 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+##### Avoid things we can re-import
+
+Assets/Oculus/
+Assets/Oculus.meta
